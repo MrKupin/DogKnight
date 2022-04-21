@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: VisualEffects
+  m_EditorClassIdentifier: 
+  m_GroupName: VisualEffects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 898aa2663dc04ef41ab7819a0a7c2e33
+  m_SerializeEntries:
+  - m_GUID: 3d235e282de4bcc4ea8affb762578f99
+    m_Address: GroundContact
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04dacc5afc764a64da6c320f4451aa27
+    m_Address: CoinBoxBreak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dec8e5013fe507e4aa1a6149745e5b66
+    m_Address: CrystalBoxBreak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bad01d8bdf17f8a4291f7dcd1821c75d
+    m_Address: Blood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2bd29f11156e0ee4fa8f9a5f6b24343e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ace513fcae5bc6341945a4b99d1c26c2, type: 2}
+    - {fileID: 11400000, guid: af27f83fbab0d1e41b44c059ce742a34, type: 2}
